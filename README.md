@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Minty Dk
+# 👩🏻‍💻 Dev Dk
 
 **`Estudante de Engenharia de Software.`**
 
