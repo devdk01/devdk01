@@ -21,7 +21,7 @@ Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Minha motiva�
 
 ### 🏆 4MCUP — Campeonatos Estilo Battle Royale
 
-Comecei com um problema simples: precisava de dinheiro. A solução foi criar um servidor competitivo no FiveM com formato **Battle Royale entre times**, onde cada campeonato movimenta dinheiro real. O projeto escalou até atingir **90 jogadores por campeonato**.
+Comecei com um problema simples: precisava de dinheiro. A solução foi criar um projeto então criei um servidor competitivo no FiveM com formato **Battle Royale entre times** escalou até atingir **90 jogadores por campeonato**.
 
 **Como funciona:**
 
