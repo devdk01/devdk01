@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software em formação · Empreendedor · Aberto a oportunidades`**
 
-Sou o Derick, 19 anos, cursando Engenharia de Software desde 2025. Minha motivação pra programar veio de um problema real: **precisava de dinheiro**. Em vez de procurar emprego, decidi empreender — e construí dois negócios do zero dentro do FiveM, cada um com seu próprio modelo de receita.
+Sou o Derick, 19 anos, cursando Engenharia de Software desde 2026. Minha motivação pra programar veio de um problema real: **precisava de dinheiro**. Em vez de procurar emprego, decidi empreender — e construí dois negócios do zero dentro do FiveM, cada um com seu próprio modelo de receita.
 
 > 💼 Disponível para **freelas, projetos e primeira oportunidade** na área de desenvolvimento.
 
