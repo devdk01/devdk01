@@ -21,12 +21,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MintyDk.MintyDk&"  />
 </div>
 
-###
-
-<h1 align="center">olá 👋</h1>
-
-###
-
 <h3 align="left">👨‍💻  Sobre mim</h3>
 
 ###
