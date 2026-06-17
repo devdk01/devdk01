@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Sou o Derick, 19 anos, do Brasil.<br><br>- 🔭 Curso Engenharia de Software desde 2026 e empreendo criando servidores no FiveM<br>- 📚 Estou aprendendo a transformar ideias em produtos com modelo de receita validado<br>- ⚡ No tempo livre, estou sempre buscando a próxima oportunidade de negócio ou projeto pra colocar a mão na massa<br>- 💼 Disponível para freelas, projetos e primeira oportunidade na área de desenvolvimento</p>
+<p align="left">Sou o Derick, 19 anos, do Brasil.<br><br>- 🔭 Curso Engenharia de Software desde 2026  ⚡ No tempo livre, estou sempre buscando a próxima oportunidade de negócio ou projeto pra fazer <br>- 💼 Disponível para freelas, projetos e primeira oportunidade na área de desenvolvimento</p>
 
 ###
 
