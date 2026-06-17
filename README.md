@@ -15,7 +15,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MintyDk.MintyDk&"  />
 </div>
 
-<h3 align="left">👨‍💻  Sobre mim</h3>
+<h3 align="left"> -> Sobre mim</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">Linguagens e ferramentas</h3>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">🎮  Meus projetos</h3>
+<h3 align="left"> Meus projetos</h3>
 
 ###
 
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥   Minhas estatísticas</h3>
+<h3 align="left"> Minhas estatísticas</h3>
 
 ###
 
