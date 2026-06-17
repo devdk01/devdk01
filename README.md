@@ -1,9 +1,3 @@
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-###
-
 <div align="center">
   <a href="https://discord.gg/4mcup">
     <img src="https://img.shields.io/static/v1?message=4MCUP&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord 4mcup logo"  />
