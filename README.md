@@ -1,4 +1,3 @@
-# devdk01
 
 **Engenharia de Software · 19 anos · Empreendedor**
 
